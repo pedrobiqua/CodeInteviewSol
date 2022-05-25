@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeInteview", "CodeInteview\CodeInteview.csproj", "{536CA18A-CF72-45B1-BCA7-4533A1CD7F04}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.1Unique", "1.1Unique\1.1Unique.csproj", "{73CDC5B9-DA97-41D9-B28A-9DA0844353BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{536CA18A-CF72-45B1-BCA7-4533A1CD7F04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{536CA18A-CF72-45B1-BCA7-4533A1CD7F04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{536CA18A-CF72-45B1-BCA7-4533A1CD7F04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{536CA18A-CF72-45B1-BCA7-4533A1CD7F04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73CDC5B9-DA97-41D9-B28A-9DA0844353BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73CDC5B9-DA97-41D9-B28A-9DA0844353BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73CDC5B9-DA97-41D9-B28A-9DA0844353BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73CDC5B9-DA97-41D9-B28A-9DA0844353BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {89775F7D-FE33-4129-9600-AF07719E88FF}
+	EndGlobalSection
+EndGlobal
