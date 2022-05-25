@@ -8,6 +8,10 @@ namespace _1._1Unique
 {
     class Unique
     {
+        /// <summary>
+        /// Essa função verifica se existe dois caracteres iguais.
+        /// </summary>
+        /// <param name="str">String a ser análisada.</param>
         public bool IsUniqueChars(string str)
         {
             if (str.Length > 256) return false;
