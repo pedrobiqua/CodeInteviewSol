@@ -9,9 +9,9 @@ namespace _1._1Unique
     public class Unique
     {
         /// <summary>
-        /// Esse metódo retorna true ou false se houver caracteres repitidos
+        /// Verifica se o texto apresenta caracteres unicos ou não.
         /// </summary>
-        /// <paramref name="str">Palavra a ser análisada.<paramref/>
+        /// <param name="str">Texto a ser analisado</param>
         public bool IsUniqueChars(string str)
         {
             if (str.Length > 256) return false;

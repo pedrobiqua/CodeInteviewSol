@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeInteview", "CodeIntevie
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.1Unique", "1.1Unique\1.1Unique.csproj", "{73CDC5B9-DA97-41D9-B28A-9DA0844353BC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.2 Check Permutation", "1.2 Check Permutation\1.2 Check Permutation.csproj", "{8A3EB9E8-B7F3-4C7A-830B-7CB922695D49}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{73CDC5B9-DA97-41D9-B28A-9DA0844353BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{73CDC5B9-DA97-41D9-B28A-9DA0844353BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{73CDC5B9-DA97-41D9-B28A-9DA0844353BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A3EB9E8-B7F3-4C7A-830B-7CB922695D49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A3EB9E8-B7F3-4C7A-830B-7CB922695D49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A3EB9E8-B7F3-4C7A-830B-7CB922695D49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A3EB9E8-B7F3-4C7A-830B-7CB922695D49}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
