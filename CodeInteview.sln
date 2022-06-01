@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.1Unique", "1.1Unique\1.1U
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.2 Check Permutation", "1.2 Check Permutation\1.2 Check Permutation.csproj", "{8A3EB9E8-B7F3-4C7A-830B-7CB922695D49}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeLibary_Binary_Search_Tree", "CodeLibary_Binary_Search_Tree\CodeLibary_Binary_Search_Tree.csproj", "{5594600A-5D46-411E-BDA9-58A2CAFF6D36}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{8A3EB9E8-B7F3-4C7A-830B-7CB922695D49}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8A3EB9E8-B7F3-4C7A-830B-7CB922695D49}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8A3EB9E8-B7F3-4C7A-830B-7CB922695D49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5594600A-5D46-411E-BDA9-58A2CAFF6D36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5594600A-5D46-411E-BDA9-58A2CAFF6D36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5594600A-5D46-411E-BDA9-58A2CAFF6D36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5594600A-5D46-411E-BDA9-58A2CAFF6D36}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
